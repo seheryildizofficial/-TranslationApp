@@ -17,4 +17,4 @@ RapidAPI: APIs used for language translation in the project are integrated via R
 You can access the live version of the project here https://translation-app-kappa.vercel.app/
 
 ![](/public//translate.gif)
-# -TranslationApp
+
